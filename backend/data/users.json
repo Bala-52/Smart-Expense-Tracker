@@ -1,0 +1,23 @@
+[
+  {
+    "id": "47b53209-b554-4804-baa2-7e43c33124dc",
+    "name": "Balu",
+    "email": "Balakrishna@gmail.com",
+    "password": "$2a$10$sygAWTYxujPqsrmVZqlWIe7Ashd6tEYxNGGlMPYR2dc1jrMfL6rn.",
+    "createdAt": "2026-08-28T09:57:05.468Z"
+  },
+  {
+    "id": "6c49458e-430e-4aab-aa0f-6d3aa6fbd3d2",
+    "name": "Balakrishna",
+    "email": "balakrishnagedela88@gmail.com",
+    "password": "$2a$10$nN.tFk8xP8twsM5EazEHmubMmLIxlcxmlYNbrhyYXM0Q6MqYmJ4Y.",
+    "createdAt": "2026-08-31T13:24:15.781Z"
+  },
+  {
+    "id": "d1f8253a-8ceb-40db-92b0-bc001d56d5f8",
+    "name": "jeevan",
+    "email": "jeevan@gmail.com",
+    "password": "$2a$10$BwKX5yCRqs2VxuQRMhOXQed8vsg2MQk9t0y2iB7PQk7t43w9BTO6q",
+    "createdAt": "2026-09-06T16:18:55.120Z"
+  }
+]

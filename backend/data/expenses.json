@@ -1,0 +1,92 @@
+[
+  {
+    "id": "e0d02c16-d198-4316-a467-af4af9a9417d",
+    "userId": "47b53209-b554-4804-baa2-7e43c33124dc",
+    "amount": 400,
+    "category": "Food",
+    "description": "biryani",
+    "date": "2026-08-28",
+    "createdAt": "2026-08-28T09:58:26.045Z"
+  },
+  {
+    "id": "aa700b40-3230-431f-8e3c-b25a31eadd6d",
+    "userId": "47b53209-b554-4804-baa2-7e43c33124dc",
+    "amount": 1000,
+    "category": "Education",
+    "description": "college fee",
+    "date": "2026-08-13",
+    "createdAt": "2026-08-28T09:59:21.003Z"
+  },
+  {
+    "id": "6c281f0f-78a4-4100-b6f6-4ead633b7986",
+    "userId": "47b53209-b554-4804-baa2-7e43c33124dc",
+    "amount": 1500,
+    "category": "Health",
+    "description": "accident",
+    "date": "2026-08-07",
+    "createdAt": "2026-08-28T09:59:51.681Z"
+  },
+  {
+    "id": "de837f8e-088d-497c-89d8-ff1cb2f61519",
+    "userId": "6c49458e-430e-4aab-aa0f-6d3aa6fbd3d2",
+    "amount": 500,
+    "category": "Food",
+    "description": "delicious",
+    "date": "2026-08-31",
+    "createdAt": "2026-08-31T13:25:32.981Z"
+  },
+  {
+    "id": "631c23b9-45d1-42d9-8f79-f27236987c35",
+    "userId": "6c49458e-430e-4aab-aa0f-6d3aa6fbd3d2",
+    "amount": 200000,
+    "category": "Education",
+    "description": "fees",
+    "date": "2026-09-04",
+    "createdAt": "2026-09-04T10:42:56.578Z"
+  },
+  {
+    "id": "3fac073a-f4eb-4c64-bf5e-d57ab850aaf3",
+    "userId": "6c49458e-430e-4aab-aa0f-6d3aa6fbd3d2",
+    "amount": 5000,
+    "category": "Transport",
+    "description": "",
+    "date": "2026-09-04",
+    "createdAt": "2026-09-04T10:43:16.179Z"
+  },
+  {
+    "id": "dd048fdf-b5ec-4c37-89c9-1d8365eb05e7",
+    "userId": "6c49458e-430e-4aab-aa0f-6d3aa6fbd3d2",
+    "amount": 60000,
+    "category": "Health",
+    "description": "",
+    "date": "2026-09-04",
+    "createdAt": "2026-09-04T10:43:40.709Z"
+  },
+  {
+    "id": "0b89c8d8-0733-4281-bd20-ae56593650f6",
+    "userId": "d1f8253a-8ceb-40db-92b0-bc001d56d5f8",
+    "amount": 120000,
+    "category": "Education",
+    "description": "semester fee",
+    "date": "2026-09-01",
+    "createdAt": "2026-09-06T16:20:27.630Z"
+  },
+  {
+    "id": "a0ff18a3-dc92-4fe8-9ff0-79133bab3725",
+    "userId": "d1f8253a-8ceb-40db-92b0-bc001d56d5f8",
+    "amount": 160000,
+    "category": "Other",
+    "description": "Hostel fee",
+    "date": "2026-08-19",
+    "createdAt": "2026-09-06T16:21:21.660Z"
+  },
+  {
+    "id": "ef8de1ae-8e7a-44ce-a94c-5784f0d8c9e9",
+    "userId": "d1f8253a-8ceb-40db-92b0-bc001d56d5f8",
+    "amount": 30000,
+    "category": "Transport",
+    "description": "clg",
+    "date": "2026-09-02",
+    "createdAt": "2026-09-06T16:21:55.748Z"
+  }
+]
